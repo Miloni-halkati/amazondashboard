@@ -27,7 +27,7 @@ The visuals are fully dynamic and driven by slicers for interactive analysis.
 
 ## 🗃️ Dataset
 
-- 📁 File: [Download Excel Dataset]`https://github.com/Miloni-halkati/amazondashboard/blob/main/Business_Insights_PowerBI.xlsx`  
+- 📁 File: [Download Excel Dataset](https://github.com/Miloni-halkati/amazondashboard/blob/main/Business_Insights_PowerBI.xlsx)
 - 📌 Created from scratch to simulate realistic business data  
 - 🧾 Contains data for Products, Partners, Revenue, Profit, Region, and Month
 
