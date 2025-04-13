@@ -45,8 +45,7 @@ The visuals are fully dynamic and driven by slicers for interactive analysis.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./screenshot.png)  
-
+(https://github.com/Miloni-halkati/amazondashboard/blob/main/Screenshot%202025-04-13%20145113.png)
 ---
 
 ## 🧠 Learnings
